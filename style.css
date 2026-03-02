@@ -1,0 +1,29 @@
+.flag{
+    height:600px;
+    width:1300px;
+    background-color: #ea7e11;
+    position:relative;
+}
+.flag > div{
+    height:400px;
+    width:100%;
+    background-color: green;
+    position:absolute;
+    top:200px;
+}
+.flag  div div{
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+.flag  div div  div{
+    height: 200px;
+    width: 200px;
+    background-color:white;
+    position: absolute;
+    left:550px;
+}
+
+
+
